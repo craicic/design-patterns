@@ -1,0 +1,1 @@
+The goal of this project is to reproduce and practice some of the design patterns I learn during CNAM NFP121
